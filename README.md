@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+```markdown
+- I’m interested in Cloud development and Cybersecurity
+- I’m currently learning Devops
+- I code professionally in GoLang, Java and Python
+- I use Arch btw :)
+```
+
 <!--
 **shinigami-777/shinigami-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
