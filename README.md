@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ```markdown
-- I’m interested in Cloud development and Cybersecurity
-- I’m currently learning Devops
-- I code professionally in GoLang, Java and Python
+- I'm currently an third year ECE student at IIT(BHU) Varanasi.
+- I’m interested in Low Level Systems, Cloud development and Cybersecurity.
+- My most used languages are C, C++, Python, Golang and Java.
 - I use Arch btw :)
 ```
 
